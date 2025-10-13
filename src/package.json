@@ -1,0 +1,32 @@
+{
+  "name": "public-facility-finder",
+  "version": "1.0.0",
+  "description": "공공시설 자리찾기 앱 - 노쇼 예측 기반 예약 대기 시스템",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "tailwind",
+    "public-facility",
+    "reservation",
+    "no-show-prediction"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/public-facility-finder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/public-facility-finder/issues"
+  },
+  "homepage": "https://github.com/yourusername/public-facility-finder#readme"
+}
